@@ -1,0 +1,17 @@
+{
+  "v": 3,
+  "updated": "2026-01-31T03:11:47.529Z",
+  "summary": {
+    "totalLines": 0,
+    "aiLines": 0,
+    "humanLines": 0,
+    "byAgent": {},
+    "byModel": {}
+  },
+  "contributors": {},
+  "recentPRs": [],
+  "timeSeries": {
+    "hourly": [],
+    "daily": []
+  }
+}
