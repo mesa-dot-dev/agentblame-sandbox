@@ -1,1 +1,5 @@
 print("Hello, World!")
+print("Hello Cursor Test V31.")
+print("Hello Cursor Test V31.2")
+print("Hello Claude Test V31.")
+print("Hello Claude Test V31.2")
