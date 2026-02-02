@@ -8,6 +8,11 @@ fn main() {
     println!("Hello, Claude A1");
     println!("Hello, Cursor A3");
     println!("Hello, Claude A2");
+    println!("Hello, Human A4");
     println!("Hello, Cursor A4");
+    println!("Hello, Cursor A5");
+    println!("Hello, Cursor A6");
+    println!("Hello, Human A5");
     println!("Hello, Claude A3");
+    println!("Hello, Claude A4");
 }
