@@ -8,5 +8,7 @@ public class Hello {
         System.out.println("Hello, Claude A1");
         System.out.println("Hello, Cursor A3");
         System.out.println("Hello, Claude A2");
+        System.out.println("Hello, Cursor A4");
+        System.out.println("Hello, Claude A3");
     }
 }

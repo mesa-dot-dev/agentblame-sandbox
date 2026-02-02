@@ -4,3 +4,5 @@ console.log("Hello, Cursor A2");
 console.log("Hello, Claude A1");
 console.log("Hello, Cursor A3");
 console.log("Hello, Claude A2");
+console.log("Hello, Cursor A4");
+console.log("Hello, Claude A3");
