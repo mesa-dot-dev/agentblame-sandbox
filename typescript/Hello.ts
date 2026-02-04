@@ -1,8 +1,13 @@
 console.log("Hello, Mesa");
+console.log("Hello, Claude B2");
+console.log("Hello, Cursor B2");
+console.log("Hello, Claude B1");
+console.log("Hello, Cursor B1");
 console.log("Hello, Cursor A1");
 console.log("Hello, Cursor A2");
 console.log("Hello, Claude A1");
 console.log("Hello, Cursor A3");
+console.log("Hello, Human B1");
 console.log("Hello, Claude A2");
 console.log("Hello, Cursor A4");
 console.log("Hello, Claude A3");
