@@ -1,4 +1,8 @@
 print("Hello, Mesa")
+print("Hello, Claude B2")
+print("Hello, Cursor B2")
+print("Hello, Claude B1")
+print("Hello, Cursor B1")
 print("Hello, Cursor A1")
 print("Hello, Cursor A2")
 print("Hello, Claude A1")

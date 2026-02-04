@@ -1,5 +1,9 @@
 fn main() {
     println!("Hello, Mesa");
+    println!("Hello, Claude B2");
+    println!("Hello, Cursor B2");
+    println!("Hello, Claude B1");
+    println!("Hello, Cursor B1");
     println!("Hello, Human A1");
     println!("Hello, Human A2");
     println!("Hello, Cursor A1");
