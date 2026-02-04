@@ -1,6 +1,7 @@
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello, Mesa");
+        System.out.println("Hello OpenCode 1");
         System.out.println("Hello, Claude B2");
         System.out.println("Hello, Cursor B2");
         System.out.println("Hello, Claude B1");
