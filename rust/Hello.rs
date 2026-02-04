@@ -1,7 +1,13 @@
 fn main() {
     println!("Hello, Mesa");
+    println!("Hello, OpenCode C2");
+    println!("Hello, Claude C2");
+    println!("Hello, Claude C1");
+    println!("Hello, Cursor C1");
+    println!("Hello, Cursor C2");
     println!("Hello OpenCode 2");
     println!("Hello OpenCode 1");
+    println!("Hello, OpenCode C1");
     println!("Hello, Claude B2");
     println!("Hello, Cursor B2");
     println!("Hello, Claude B1");
@@ -10,6 +16,7 @@ fn main() {
     println!("Hello, Human A2");
     println!("Hello, Cursor A1");
     println!("Hello, Human A3");
+    println!("Hello, Human C1");
     println!("Hello, Cursor A2");
     println!("Hello, Claude A1");
     println!("Hello, Cursor A3");

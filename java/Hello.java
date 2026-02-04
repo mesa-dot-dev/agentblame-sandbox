@@ -1,8 +1,14 @@
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello, Mesa");
+        System.out.println("Hello, OpenCode C2");
+        System.out.println("Hello, Claude C2");
+        System.out.println("Hello, Claude C1");
+        System.out.println("Hello, Cursor C1");
+        System.out.println("Hello, Cursor C2");
         System.out.println("Hello OpenCode 2");
         System.out.println("Hello OpenCode 1");
+        System.out.println("Hello, OpenCode C1");
         System.out.println("Hello, Claude B2");
         System.out.println("Hello, Cursor B2");
         System.out.println("Hello, Claude B1");
@@ -10,6 +16,7 @@ public class Hello {
         System.out.println("Hello, Human A1");
         System.out.println("Hello, Human A2");
         System.out.println("Hello, Cursor A1");
+        System.out.println("Hello, Human C1");
         System.out.println("Hello, Cursor A2");
         System.out.println("Hello, Claude A1");
         System.out.println("Hello, Cursor A3");
