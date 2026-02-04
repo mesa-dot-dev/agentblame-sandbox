@@ -1,5 +1,6 @@
 print("Hello, Mesa")
 print("Hello, OpenCode C2")
+print("Hello, OpenCode C3")
 print("Hello, Claude C2")
 print("Hello, Claude C1")
 print("Hello, Cursor C1")
