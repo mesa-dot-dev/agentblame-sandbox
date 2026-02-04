@@ -1,6 +1,11 @@
 console.log("Hello, Mesa");
+console.log("Hello, Claude C2");
+console.log("Hello, Claude C1");
+console.log("Hello, Cursor C1");
+console.log("Hello, Cursor C2");
 console.log("Hello OpenCode 2");
 console.log("Hello OpenCode 1");
+console.log("Hello, OpenCode C1");
 console.log("Hello, Claude B2");
 console.log("Hello, Cursor B2");
 console.log("Hello, Claude B1");
