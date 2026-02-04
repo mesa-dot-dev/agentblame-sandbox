@@ -1,4 +1,5 @@
 console.log("Hello, Mesa");
+console.log("Hello OpenCode 1");
 console.log("Hello, Claude B2");
 console.log("Hello, Cursor B2");
 console.log("Hello, Claude B1");
