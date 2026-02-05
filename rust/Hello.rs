@@ -1,5 +1,6 @@
 fn main() {
     println!("Hello, Mesa");
+    println!("Hello, OpenCode C6");
     println!("Hello, OpenCode C2");
     println!("Hello, OpenCode C3");
     println!("Hello, Claude C2");
