@@ -1,11 +1,14 @@
 fn main() {
     println!("Hello, Mesa");
+    println!("Hello, Claude C3");
     println!("Hello, OpenCode C2");
     println!("Hello, OpenCode C3");
+    println!("Hello, OpenCode C4");
     println!("Hello, Claude C2");
     println!("Hello, Claude C1");
     println!("Hello, Cursor C1");
     println!("Hello, Cursor C2");
+    println!("Hello, Cursor C4");
     println!("Hello OpenCode 2");
     println!("Hello OpenCode 1");
     println!("Hello, OpenCode C1");
